@@ -51,4 +51,4 @@ const AddTopic = () => {
   )
 }
 
-export default addTopic
+export default AddTopic
